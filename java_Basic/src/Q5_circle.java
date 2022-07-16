@@ -18,6 +18,6 @@ public class Q5_circle {
         double area = area(radius);
         System.out.println("circumference of circle -> " + circumference);
         System.out.println("area of circle -> " + area);
-
+        sc.close();
     }
 }

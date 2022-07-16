@@ -18,6 +18,6 @@ public class Q7_Q8_temp {
         System.out.println("Enter celcius to convert into fahrenheit ");
         float cel = sc.nextInt();
         fahren(cel);
-
+        sc.close();
     }
 }

@@ -30,5 +30,6 @@ public class call {
         int w = sc.nextInt();
         System.out.println("parameter of rectangle -> " + obj3.prm(l,w));
         System.out.println("area of rectangle -> " + obj3.area(l,w));
+        sc.close();
     }
 }

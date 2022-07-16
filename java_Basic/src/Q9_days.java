@@ -14,5 +14,6 @@ public class Q9_days {
         Scanner sc = new Scanner(System.in); 
         int days = sc.nextInt();
         calender(days);
+        sc.close();
     }
 }

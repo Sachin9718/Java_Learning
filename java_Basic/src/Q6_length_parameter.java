@@ -14,6 +14,6 @@ public class Q6_length_parameter {
         int length = sc.nextInt();
         meter(length);
         kilometer(length);
-        
+        sc.close();
     }
 }

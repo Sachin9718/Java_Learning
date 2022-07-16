@@ -1,7 +1,8 @@
 import java.util.*;
+// This program is not working properly. do -> optimized the code
 public class Q10_pwr {
     public static int power(int x, int y) {
-        int pwr = x;
+        // int pwr = x;
         for(int i = x; i <= y; i++){
             x = x * i;
         }
@@ -15,5 +16,6 @@ public class Q10_pwr {
         y = sc.nextInt();
         int out = power(x,y);
         System.out.println(out);
+        sc.close();
     }
 }
