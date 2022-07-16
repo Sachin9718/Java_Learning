@@ -23,6 +23,12 @@ public class call {
 
 
 
-        // 
+        // calling Q3_rect class -> Q3 and Q4
+        Q3_rect obj3 = new Q3_rect();
+        System.out.println("Enter length and width of rectangle \n");
+        int l = sc.nextInt();
+        int w = sc.nextInt();
+        System.out.println("parameter of rectangle -> " + obj3.prm(l,w));
+        System.out.println("area of rectangle -> " + obj3.area(l,w));
     }
 }
