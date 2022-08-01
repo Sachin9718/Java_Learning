@@ -424,8 +424,6 @@ public class twentyOne_thirtyFour {
     private static void OctHex() {
         String octnum, hexnum;
         int decnum;
-        Scanner scan = new Scanner(System.in);
-
         // Taking 5123 as an example of
         // Octal Number.
         octnum = "5123";
@@ -540,11 +538,9 @@ public class twentyOne_thirtyFour {
         int decimal = 0, rem, i = 0, len;
         String hexadecimal;
         int[] octal = new int[20];
-
-        Scanner s = new Scanner(System.in);
-
+        sc = new Scanner(System.in);
         System.out.print("Enter the Hexadecimal Number: ");
-        hexadecimal = s.nextLine();
+        hexadecimal = sc.nextLine();
 
         len = hexadecimal.length();
         len--;
