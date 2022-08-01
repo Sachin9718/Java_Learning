@@ -7,32 +7,32 @@ public class twentyOne_thirtyFour {
 
     public static void main(String[] args) {
         // NOTE! -> access the methods one by one only
-        // power();
-        // factor();
-        // factorial();
-        // HCF();
-        // LCM();
-        // prime();
-        // primeall();
-        // primefactors();
-        // armstrong();
-        // armstrongall();
-        // perfectnum();
-        // perfectnumall();
-        // strong();
-        // stringall();
-        // fibbinaci();
-        // BinOct();
-        // BinDec();
-        // BinHex();
-        // OctBin();
-        // OctDec();
-        // OctHex();
-        // DecBin();
-        // DecHex();
-        // HexBin();
-        // HexOct();
-        // HexDec();
+        power();
+        factor();
+        factorial();
+        HCF();
+        LCM();
+        prime();
+        primeall();
+        primefactors();
+        armstrong();
+        armstrongall();
+        perfectnum();
+        perfectnumall();
+        strong();
+        stringall();
+        fibbinaci();
+        BinOct();
+        BinDec();
+        BinHex();
+        OctBin();
+        OctDec();
+        OctHex();
+        DecBin();
+        DecHex();
+        HexBin();
+        HexOct();
+        HexDec();
     }
 
     // Twenty One
