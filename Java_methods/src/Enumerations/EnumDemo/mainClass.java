@@ -1,4 +1,4 @@
-package Enumerations;
+package Enumerations.EnumDemo;
 
 public class mainClass {
     public static void main(String[] args) {
