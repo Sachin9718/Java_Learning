@@ -16,5 +16,6 @@ public class GenericLambdaInterface {
         };
 
         System.out.println("Reverse of Lambda: " + obj.func("Lambda"));
+        System.out.println("Revesr of Sachin Yadav: " + obj.func("Sachin Yadav"));
     }
 }
