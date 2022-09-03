@@ -1,4 +1,4 @@
-package sachin_id_1;
+package src;
 
 import javax.swing.*;
 import java.awt.*;
